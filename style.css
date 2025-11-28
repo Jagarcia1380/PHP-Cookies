@@ -1,0 +1,43 @@
+body {
+
+font-family: Arial, sans-serif;
+
+padding: 20px;
+
+}
+
+
+/* EPCC style */
+
+body.epcc {
+
+background-color: #004b8d;
+
+color: white;
+
+}
+
+
+/* Thanksgiving style */
+
+body.thanksgiving {
+
+background-color: #5b2c06;
+
+color: #ffe4b5;
+
+}
+
+
+form {
+
+margin-top: 20px;
+
+}
+
+
+label {
+
+margin-right: 10px;
+
+}
